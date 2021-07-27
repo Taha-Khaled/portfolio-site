@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Courses App",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: "/images/3.jpg",
     tags: ["React", "JavaScript"],
     source: "https://github.com/tahakhalled/course-app",
@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "Weather app",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: "/images/4.jpg",
     tags: ["React", "JavaScript", "api"],
     source: "https://github.com/tahakhalled/weather-app",
@@ -42,7 +42,7 @@ export const projects = [
   {
     title: "Todo List",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: "/images/5.jpg",
     tags: ["React", "JavaScript"],
     source: "https://github.com/tahakhalled/todolist",
@@ -52,7 +52,7 @@ export const projects = [
   {
     title: "Color Game",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: "/images/6.png",
     tags: ["html", "css", "JavaScript"],
     source: "https://codepen.io/taha_khaled/pen/QajBEL",
@@ -62,7 +62,7 @@ export const projects = [
   {
     title: "TicTacToe Game",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: "/images/7.jpg",
     tags: ["html", "css", "JavaScript"],
     source: "https://codepen.io/taha_khaled/pen/MrKWGb",
@@ -72,7 +72,7 @@ export const projects = [
   {
     title: "Web Site Project",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: "/images/8.jpg",
     tags: ["html", "css", "JavaScript"],
     source: "https://codepen.io/taha_khaled/project/editor/XGRJmB",
